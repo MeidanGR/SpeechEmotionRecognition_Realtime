@@ -1,1 +1,1 @@
-# SER_DeepLearning_LSTM
+# Speech Emotion Recognition Algorithm
