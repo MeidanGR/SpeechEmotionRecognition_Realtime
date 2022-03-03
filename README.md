@@ -1,3 +1,7 @@
+UPDATES:
+03/03/22 -  reduce_noise inputs have been corrected 
+            QA printing added due to np.pad issues: filename, length, & dBFS when needed.
+
 # Speech Emotion Recognition (SER) in real-time
 A Deep Learning (LSTM) model with keras.
 
